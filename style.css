@@ -1,0 +1,29 @@
+.heading
+{
+    font-family: 'Pangolin', cursive;
+    font-size: 21px;
+    width: 100%;
+    box-shadow: 2px 2px 2px grey;
+    letter-spacing: 2px;
+    font-weight:bolder;
+}
+.note
+{
+    font-size: 15px;
+    font-family: 'Pangolin', cursive;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    background-color: slategray;
+    line-height: 3;
+    text-align: justify;
+}
+canvas{
+border: 5px solid white;
+border-radius: 15px;
+background-color:#008b8b;
+}
